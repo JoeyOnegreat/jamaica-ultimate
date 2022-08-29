@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Jamaica Ultimate</title>
+    <link>https://www.jamaicaultimate.com</link>
+    <pubDate>Fri, 24 May 2019 19:39:05 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-129204902</wp:author_id>
+      <wp:author_login>ramon@onegreatstudio.com</wp:author_login>
+      <wp:author_email>ramon@onegreatstudio.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Ramon Murray]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Ramon]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Murray]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+      <wp:author_id>-1045903459</wp:author_id>
+      <wp:author_login>gzhang@squarespace.com</wp:author_login>
+      <wp:author_email>gzhang@squarespace.com</wp:author_email>
+      <wp:author_display_name><![CDATA[George Zhang]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[George]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Zhang]]></wp:author_last_name>
+    </wp:author>
+    <wp:author>
+      <wp:author_id>694963201</wp:author_id>
+      <wp:author_login>gina@onegreatstudio.com</wp:author_login>
+      <wp:author_email>gina@onegreatstudio.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Gina Delisser]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Gina]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Delisser]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/whoweare</link>
+      <title>Who We Are</title>
+      <pubDate>Fri, 31 May 2019 20:50:49 +0000</pubDate>
+      <content:encoded><![CDATA[<h1 style="text-align:center;white-space:pre-wrap;">Who We Are</h1>
+
+
+&nbsp;<p style="text-align:center;white-space:pre-wrap;" class="">Jamaica Flying Disc Federation (JFDF) a.k.a Jamaica Ultimate, is a registered charity organization and recreational sports group for ultimate disc (Frisbee!) in Jamaica. We play games 2-3 games a week, periodically host social events and tournaments, and encourage the game where possible. Join us on Facebook for more regular updates on interesting news and upcoming events. </p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p>
+
+
+&nbsp;
+
+
+
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slider
+  
+  
+  sqs-gallery-has-controls
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978401196-3H434OKEC6J75T64LNG4/_MG_3328-2.jpg" alt="_MG_3328-2.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978401196-3H434OKEC6J75T64LNG4/_MG_3328-2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978401196-3H434OKEC6J75T64LNG4/_MG_3328-2.jpg" data-image-dimensions="1800x1200" data-image-focal-point="0.5,0.5" alt="_MG_3328-2.jpg" data-load="false" data-image-id="5cec1f5d6e9a7f68cdaa7d58" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978444671-I2DMZR1KFPBBCMVD3JLM/Ultimate+Tourney+%282017%29+027.JPG" alt="Ultimate Tourney (2017) 027.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978444671-I2DMZR1KFPBBCMVD3JLM/Ultimate+Tourney+%282017%29+027.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978444671-I2DMZR1KFPBBCMVD3JLM/Ultimate+Tourney+%282017%29+027.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) 027.JPG" data-load="false" data-image-id="5cec1f81a4222f2d3d2a3ece" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978487445-D7SUNLWY9VTIN73TPIT0/Ultimate+Tourney+%282017%29+025.JPG" alt="Ultimate Tourney (2017) 025.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978487445-D7SUNLWY9VTIN73TPIT0/Ultimate+Tourney+%282017%29+025.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978487445-D7SUNLWY9VTIN73TPIT0/Ultimate+Tourney+%282017%29+025.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) 025.JPG" data-load="false" data-image-id="5cec1faf9b747a2124039748" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978491009-RISGOGSXOGTNIQ01N11F/Ultimate+Tourney+%282017%29+Simmi++108.JPG" alt="Ultimate Tourney (2017) Simmi  108.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978491009-RISGOGSXOGTNIQ01N11F/Ultimate+Tourney+%282017%29+Simmi++108.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978491009-RISGOGSXOGTNIQ01N11F/Ultimate+Tourney+%282017%29+Simmi++108.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) Simmi  108.JPG" data-load="false" data-image-id="5cec1fb8c8302545b924b1e0" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978510831-MELH8ME8Z7B1VPQ0WKGR/Ultimate+Tourney+%282017%29+Simmi++071.JPG" alt="Ultimate Tourney (2017) Simmi  071.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978510831-MELH8ME8Z7B1VPQ0WKGR/Ultimate+Tourney+%282017%29+Simmi++071.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978510831-MELH8ME8Z7B1VPQ0WKGR/Ultimate+Tourney+%282017%29+Simmi++071.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) Simmi  071.JPG" data-load="false" data-image-id="5cec1fcc24a694311319eb34" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978548847-1E9HSPZ4PNE9A39HAB6A/Frisbee+%282017%29+064.JPG" alt="Frisbee (2017) 064.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978548847-1E9HSPZ4PNE9A39HAB6A/Frisbee+%282017%29+064.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978548847-1E9HSPZ4PNE9A39HAB6A/Frisbee+%282017%29+064.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Frisbee (2017) 064.JPG" data-load="false" data-image-id="5cec1fe8b208fc0bb165e0ce" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978610217-3XZSPPLRP1WT8KPHMGHW/Ultimate+Tourney+%282017%29+Simmi++158.JPG" alt="Ultimate Tourney (2017) Simmi  158.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978610217-3XZSPPLRP1WT8KPHMGHW/Ultimate+Tourney+%282017%29+Simmi++158.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978610217-3XZSPPLRP1WT8KPHMGHW/Ultimate+Tourney+%282017%29+Simmi++158.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) Simmi  158.JPG" data-load="false" data-image-id="5cec20309b747a2124039d7a" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>]]></content:encoded>
+      <wp:post_name>whoweare</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/whenandwhere</link>
+      <title>When and Where</title>
+      <pubDate>Thu, 18 Aug 2022 16:10:11 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<p style="text-align:center;white-space:pre-wrap;" class="">Games are typically played 3 times a week in Kingston and we love new players! If you are interested in seeing what the game is like, or playing a pick up game, reach out to us using the contact info below and we will let you know a good time to visit. Please remember that regular players will need to pay for membership &amp; related fees.</p><p style="text-align:center;white-space:pre-wrap;" class=""><strong><em>Email: </em></strong><a href="http://Jamaica.ultimate1@gmail.com" target="_blank"><strong><em>ultimate.jamaica1@gmail.com</em></strong></a></p>
+
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>whenandwhere</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/ultimate-tournaments</link>
+      <title>Ultimate Tournaments</title>
+      <pubDate>Mon, 27 May 2019 17:48:09 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;<p style="text-align:center;white-space:pre-wrap;" class="">Tournaments are a regular event for this group, but every once in a while we try go big. In 2016, we hosted a great tournament with ultimate players from Cayman, and again in 2017. These tournaments bring together players from different countries, with different levels and different styles. In the future, we are hoping to go bigger still and invite even more teams to participate. &nbsp;</p>
+
+
+&nbsp;
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/ultimate-tournaments-page"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    See more
+  </a>
+</div>
+&nbsp;]]></content:encoded>
+      <wp:post_name>ultimate-tournaments</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/a-little-history-</link>
+      <title>A Little History ...</title>
+      <pubDate>Fri, 31 May 2019 18:53:38 +0000</pubDate>
+      <content:encoded><![CDATA[<div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:800px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:72.25%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558729871706-5VP34GAGMPNFFJQQJJ0N/History.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558729871706-5VP34GAGMPNFFJQQJJ0N/History.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558729871706-5VP34GAGMPNFFJQQJJ0N/History.jpg" data-image-dimensions="800x578" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5ce8548feef1a1faf64af54b" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<h1 style="white-space:pre-wrap;"><strong>How did ultimate come to Jamaica? </strong></h1><p class="" style="white-space:pre-wrap;"><strong><em>Find out below, in the words of Andrew "Big Spot" Fletcher!</em></strong></p>
+
+
+<p class="" style="white-space:pre-wrap;"><em>“Summer 1976 was my introduction to Ultimate. Met some hippies throwing a disc in a park on the south coast of England and was intrigued how it flew. &nbsp;Later that summer I started University in Warwick (UK) where I met Rickard Hicks who wanted to start an Ultimate team (Warwick Bears); about ten of us signed up. &nbsp;Richard had a friend from high school who went to Cambridge University and had started an ultimate team.  We only played two games that season: one home and one away against Cambridge. &nbsp;I played for Warwick for 4 years in which time we won the European Championship.  I was also invited to play for the first UK team against Italy (see attached article).</em></p><p class="" style="white-space:pre-wrap;"><em>As an aside: Warwick Bears is now the oldest team in Europe (43 years old).</em></p><p class="" style="white-space:pre-wrap;"><em>On returning to Jamaica in 1980, I was eager to continue playing and approached my brother Mark, to see if any of his friends would be interested in learning a new game. &nbsp;Having played in England where the fields were “dive friendly”; my first choice was the Constant Spring Golf course that was easily accessible by the spring on Norbrook Drive. &nbsp;We have tried other places but always returned to CSGC.</em></p><p class="" style="white-space:pre-wrap;"><em>The Monday and Thursday soon became a fixture with many friends and acquaintances dropping by to try-out; many returned while other drifted off. &nbsp;Girls soon became involved that managed to soften the machismo arguments.</em></p><p class="" style="white-space:pre-wrap;"><em>Early players: Donald Bennett, Nari Constatine, Don Wheby, Vaughn Morris, Shaun Peralto, Peter Harrison and Dudley Hall.”</em></p><p class="" style="white-space:pre-wrap;"><strong>- Andrew “Jaffa” / “Big Spot” Fletcher</strong></p><p class="" style="white-space:pre-wrap;"><br></p>
+
+
+
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/whenandwhere"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Join US
+  </a>
+</div>
+&nbsp;]]></content:encoded>
+      <wp:post_name>a-little-history-</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/how-to-play</link>
+      <title>How To Play</title>
+      <pubDate>Fri, 31 May 2019 18:54:39 +0000</pubDate>
+      <content:encoded><![CDATA[<figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              overflow: hidden;
+              
+            ">
+              <noscript><img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558979497280-M8GBCGBRUPKFU6FYR8U3/Ultimate%2BTourney%2B%25282017%2529%2B036.jpg" alt="" loading="lazy"/></noscript>
+              <img class="sqs-image-min-height" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558979497280-M8GBCGBRUPKFU6FYR8U3/Ultimate%2BTourney%2B%25282017%2529%2B036.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558979497280-M8GBCGBRUPKFU6FYR8U3/Ultimate%2BTourney%2B%25282017%2529%2B036.jpg" data-image-dimensions="2157x1311" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="overflow: hidden;"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="">Ultimate</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="">is a non-contact, self-refereed team sport played with a flying disc (or Frisbee™).</p><p class="">Two teams of seven players compete on a playing field about the same length as a football field, but narrower. At each end of the playing field there is an end zone. Each team defends one end zone. They score a goal if one of their players catches the disc in the opposite end zone.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+<p class="" style="white-space:pre-wrap;">The player with the disc is called the thrower. The thrower may not run with the disc. Instead they move the disc by passing to team-mates in any direction.</p><p class="" style="white-space:pre-wrap;">The defensive team gets possession of the disc if an offensive team’s throw is not caught by a player of the same team. Then the defensive team becomes the offensive team and can try to score in the opposite end zone.</p><p class="" style="white-space:pre-wrap;">Ultimate relies upon a Spirit of the Game that places the responsibility for fair play on every player. There are no referees; the players are solely responsible for following and enforcing the rules, even at World Championship. Competitive play is encouraged, but never at the expense of respect between players, adherence to the rules, and the basic joy of play.</p><p style="text-align:center;white-space:pre-wrap;" class=""><em>For more information please visit the </em><a href="http://www.wfdf.org/" target="_blank"><strong><em>World Flying Disc Federation</em></strong></a></p><p class="" style="white-space:pre-wrap;">&nbsp;</p>]]></content:encoded>
+      <wp:post_name>how-to-play</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/ultimate-tournaments-page</link>
+      <title>Ultimate Tournaments</title>
+      <pubDate>Thu, 18 Aug 2022 16:36:28 +0000</pubDate>
+      <content:encoded><![CDATA[<div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1176px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:13.77550983428955%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558981964366-64FXVTWOL84QVCICCMBX/logos_2.jpg" alt="" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558981964366-64FXVTWOL84QVCICCMBX/logos_2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558981964366-64FXVTWOL84QVCICCMBX/logos_2.jpg" data-image-dimensions="1176x162" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5cec2d4cec212dc60a562027" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+&nbsp;<p class="" style="white-space:pre-wrap;">In 2019, Jamaica Ultimate hosted the first “Fling Ting” ultimate tournament - which was really our 3rd invitational tournament, but this year just a little bigger. In all we had some 49 players - 35 from Jamaica, 9 from Cayman, 3 from USA and 1 from the UK!&nbsp;</p><p class="" style="white-space:pre-wrap;">With matches played at the iconic Sabina Park, the day of ultimate began with our traditional Jamaica vs Cayman match, and was then followed by our mixed Round Robin matches. Jamaica retained its title as winner,&nbsp;</p><p class="" style="white-space:pre-wrap;">As usual, the tournament was not only about ultimate, but had visits to Kingston-based attractions such as Devon House, Bob Marley Museum, and Culture Yard; and also involved a pre-tournament lyme at Jo Jo’s Jerk Pit, and a Sunday post-tournament wind down at Boone Hall Oasis. </p><p class="" style="white-space:pre-wrap;">Tournaments are a regular event for this group, but every once in a while we try go big. In 2016, we hosted a great tournament with ultimate players from Cayman, and again in 2017. These tournaments bring together players from different countries, with different levels and different styles. In the future, we are hoping to go bigger still and invite even more teams to participate. &nbsp;</p>
+
+
+&nbsp;
+
+
+
+
+  
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slideshow
+  
+  
+  sqs-gallery-has-controls
+  sqs-gallery-has-thumbnails
+
+  
+    sqs-gallery-block-show-meta sqs-gallery-block-meta-position-bottom
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738652337-BFXGY1LRRBQKWYA6HQ50/FlingTing2019_LWolf+011.jpg" alt="FlingTing2019_LWolf 011.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738652337-BFXGY1LRRBQKWYA6HQ50/FlingTing2019_LWolf+011.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738652337-BFXGY1LRRBQKWYA6HQ50/FlingTing2019_LWolf+011.jpg" data-image-dimensions="2500x1877" data-image-focal-point="0.5,0.5" alt="FlingTing2019_LWolf 011.jpg" data-load="false" data-image-id="5d810c3c7a152a6219037b0c" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738363617-BX5THSK5H2NVBY83EUSB/FlingTing2019_EPetrut+128.JPG" alt="FlingTing2019_EPetrut 128.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738363617-BX5THSK5H2NVBY83EUSB/FlingTing2019_EPetrut+128.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738363617-BX5THSK5H2NVBY83EUSB/FlingTing2019_EPetrut+128.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_EPetrut 128.JPG" data-load="false" data-image-id="5d810c1b14d346709f389626" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738376074-VFJG83TQCAR2PVBTB8SR/FlingTing2019_EPetrut+155.JPG" alt="FlingTing2019_EPetrut 155.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738376074-VFJG83TQCAR2PVBTB8SR/FlingTing2019_EPetrut+155.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738376074-VFJG83TQCAR2PVBTB8SR/FlingTing2019_EPetrut+155.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_EPetrut 155.JPG" data-load="false" data-image-id="5d810c1b84145a3ba38418c2" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978686284-5Q8X2L02BUQZFGIBSA51/_MG_3328-2.jpg" alt="_MG_3328-2.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978686284-5Q8X2L02BUQZFGIBSA51/_MG_3328-2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978686284-5Q8X2L02BUQZFGIBSA51/_MG_3328-2.jpg" data-image-dimensions="1800x1200" data-image-focal-point="0.5,0.5" alt="_MG_3328-2.jpg" data-load="false" data-image-id="5cec207a24a694311319f2d6" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739102572-MISK0IDIGRP0ZC7QGF8G/FlingTing2019_MVeira+020.JPG" alt="FlingTing2019_MVeira 020.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739102572-MISK0IDIGRP0ZC7QGF8G/FlingTing2019_MVeira+020.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739102572-MISK0IDIGRP0ZC7QGF8G/FlingTing2019_MVeira+020.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_MVeira 020.JPG" data-load="false" data-image-id="5d810d6121d48e4c50b44eca" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978727731-RWK9R2FFUCORKFQWIMZG/Ultimate+Tourney+%282017%29+011a.jpg" alt="Ultimate Tourney (2017) 011a.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978727731-RWK9R2FFUCORKFQWIMZG/Ultimate+Tourney+%282017%29+011a.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978727731-RWK9R2FFUCORKFQWIMZG/Ultimate+Tourney+%282017%29+011a.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) 011a.jpg" data-load="false" data-image-id="5cec20a24e17b65333e5c5e4" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738653842-H6OXYWI43XC3I8L9FU4G/FlingTing2019_LWolf+016.jpg" alt="FlingTing2019_LWolf 016.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738653842-H6OXYWI43XC3I8L9FU4G/FlingTing2019_LWolf+016.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738653842-H6OXYWI43XC3I8L9FU4G/FlingTing2019_LWolf+016.jpg" data-image-dimensions="2500x2638" data-image-focal-point="0.5,0.5" alt="FlingTing2019_LWolf 016.jpg" data-load="false" data-image-id="5d810c499488304fd1ebc78d" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337523633-J8RTQI5UK54B9302S5XU/DSC_0132.JPG" alt="DSC_0132.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337523633-J8RTQI5UK54B9302S5XU/DSC_0132.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337523633-J8RTQI5UK54B9302S5XU/DSC_0132.JPG" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="DSC_0132.JPG" data-load="false" data-image-id="5cf19a31f16e1d000155de56" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337592120-X7RB615B7EOWT5FXHYVE/Ultimate-Tourney-%282017%29-025.jpg" alt="Ultimate-Tourney-(2017)-025.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337592120-X7RB615B7EOWT5FXHYVE/Ultimate-Tourney-%282017%29-025.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337592120-X7RB615B7EOWT5FXHYVE/Ultimate-Tourney-%282017%29-025.jpg" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-025.jpg" data-load="false" data-image-id="5cf19a776335be00018ec081" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739270926-8KSLOZSDJ7VRQA3ZHWXC/FlingTing2019_LWolf+025.jpg" alt="FlingTing2019_LWolf 025.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739270926-8KSLOZSDJ7VRQA3ZHWXC/FlingTing2019_LWolf+025.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739270926-8KSLOZSDJ7VRQA3ZHWXC/FlingTing2019_LWolf+025.jpg" data-image-dimensions="2500x1407" data-image-focal-point="0.46938775510204084,0.5286144578313253" alt="FlingTing2019_LWolf 025.jpg" data-load="false" data-image-id="5d810d5d14d346709f38badf" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337605887-6VJWFQ3YKFA501FEDMRU/Ultimate-Tourney-%282017%29-027.jpg" alt="Ultimate-Tourney-(2017)-027.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337605887-6VJWFQ3YKFA501FEDMRU/Ultimate-Tourney-%282017%29-027.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337605887-6VJWFQ3YKFA501FEDMRU/Ultimate-Tourney-%282017%29-027.jpg" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-027.jpg" data-load="false" data-image-id="5cf19a856b0f2a0001bc8440" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739289992-TV69SXOQNSQD3FEK9FFB/FlingTing2019_MVeira+077.JPG" alt="FlingTing2019_MVeira 077.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739289992-TV69SXOQNSQD3FEK9FFB/FlingTing2019_MVeira+077.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739289992-TV69SXOQNSQD3FEK9FFB/FlingTing2019_MVeira+077.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_MVeira 077.JPG" data-load="false" data-image-id="5d810fb6bd27ec566c657f57" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337658087-KJA4F0D0PNRWL708RXVW/Ultimate-Tourney-%282017%29-Simmi--080.JPG" alt="Ultimate-Tourney-(2017)-Simmi--080.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337658087-KJA4F0D0PNRWL708RXVW/Ultimate-Tourney-%282017%29-Simmi--080.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337658087-KJA4F0D0PNRWL708RXVW/Ultimate-Tourney-%282017%29-Simmi--080.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-Simmi--080.JPG" data-load="false" data-image-id="5cf19ab9c14935000163fd07" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337670082-9IQG589K4KVZ57L4UW6H/Ultimate-Tourney-%282017%29-Simmi--124.JPG" alt="Ultimate-Tourney-(2017)-Simmi--124.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337670082-9IQG589K4KVZ57L4UW6H/Ultimate-Tourney-%282017%29-Simmi--124.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337670082-9IQG589K4KVZ57L4UW6H/Ultimate-Tourney-%282017%29-Simmi--124.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-Simmi--124.JPG" data-load="false" data-image-id="5cf19ac405c6260001e9ce6d" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337676251-KKOCBW1U4TARORPGW3T5/Ultimate-Tourney-%282017%29-Simmi--133.JPG" alt="Ultimate-Tourney-(2017)-Simmi--133.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337676251-KKOCBW1U4TARORPGW3T5/Ultimate-Tourney-%282017%29-Simmi--133.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337676251-KKOCBW1U4TARORPGW3T5/Ultimate-Tourney-%282017%29-Simmi--133.JPG" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-Simmi--133.JPG" data-load="false" data-image-id="5cf19acb69950e00013c46a3" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337716072-WYVO5W7WBAW7BZAPYF1J/Ultimate-Tourney-%282017%29-037.JPG" alt="Ultimate-Tourney-(2017)-037.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337716072-WYVO5W7WBAW7BZAPYF1J/Ultimate-Tourney-%282017%29-037.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337716072-WYVO5W7WBAW7BZAPYF1J/Ultimate-Tourney-%282017%29-037.JPG" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-037.JPG" data-load="false" data-image-id="5cf19af35e81920001e8db1e" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337731838-2A2QHP2NPORW20K8DHGW/Ultimate-Tourney-%282017%29-033.jpg" alt="Ultimate-Tourney-(2017)-033.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337731838-2A2QHP2NPORW20K8DHGW/Ultimate-Tourney-%282017%29-033.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337731838-2A2QHP2NPORW20K8DHGW/Ultimate-Tourney-%282017%29-033.jpg" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-033.jpg" data-load="false" data-image-id="5cf19b033a2dce00018d1be8" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            <div class="slide content-fill" data-type="image" data-click-through-url="">
+              
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739252971-59E4RX9U05O5TZAIO7YZ/FlingTing2019_MVeira+056.JPG" alt="FlingTing2019_MVeira 056.JPG" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739252971-59E4RX9U05O5TZAIO7YZ/FlingTing2019_MVeira+056.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739252971-59E4RX9U05O5TZAIO7YZ/FlingTing2019_MVeira+056.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_MVeira 056.JPG" data-load="false" data-image-id="5d810f208d453d39ba59e765" data-type="image" />
+              
+
+              
+                
+              
+              <div class="color-overlay"></div>
+            </div>
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+  
+
+    <div class="sqs-gallery-thumbnails" >
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 1"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738652337-BFXGY1LRRBQKWYA6HQ50/FlingTing2019_LWolf+011.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738652337-BFXGY1LRRBQKWYA6HQ50/FlingTing2019_LWolf+011.jpg" data-image-dimensions="2500x1877" data-image-focal-point="0.5,0.5" alt="FlingTing2019_LWolf 011.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 2"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738363617-BX5THSK5H2NVBY83EUSB/FlingTing2019_EPetrut+128.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738363617-BX5THSK5H2NVBY83EUSB/FlingTing2019_EPetrut+128.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_EPetrut 128.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 3"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738376074-VFJG83TQCAR2PVBTB8SR/FlingTing2019_EPetrut+155.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738376074-VFJG83TQCAR2PVBTB8SR/FlingTing2019_EPetrut+155.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_EPetrut 155.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 4"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978686284-5Q8X2L02BUQZFGIBSA51/_MG_3328-2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978686284-5Q8X2L02BUQZFGIBSA51/_MG_3328-2.jpg" data-image-dimensions="1800x1200" data-image-focal-point="0.5,0.5" alt="_MG_3328-2.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 5"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739102572-MISK0IDIGRP0ZC7QGF8G/FlingTing2019_MVeira+020.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739102572-MISK0IDIGRP0ZC7QGF8G/FlingTing2019_MVeira+020.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_MVeira 020.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 6"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978727731-RWK9R2FFUCORKFQWIMZG/Ultimate+Tourney+%282017%29+011a.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1558978727731-RWK9R2FFUCORKFQWIMZG/Ultimate+Tourney+%282017%29+011a.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Ultimate Tourney (2017) 011a.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 7"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738653842-H6OXYWI43XC3I8L9FU4G/FlingTing2019_LWolf+016.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568738653842-H6OXYWI43XC3I8L9FU4G/FlingTing2019_LWolf+016.jpg" data-image-dimensions="2500x2638" data-image-focal-point="0.5,0.5" alt="FlingTing2019_LWolf 016.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 8"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337523633-J8RTQI5UK54B9302S5XU/DSC_0132.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337523633-J8RTQI5UK54B9302S5XU/DSC_0132.JPG" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="DSC_0132.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 9"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337592120-X7RB615B7EOWT5FXHYVE/Ultimate-Tourney-%282017%29-025.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337592120-X7RB615B7EOWT5FXHYVE/Ultimate-Tourney-%282017%29-025.jpg" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-025.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 10"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739270926-8KSLOZSDJ7VRQA3ZHWXC/FlingTing2019_LWolf+025.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739270926-8KSLOZSDJ7VRQA3ZHWXC/FlingTing2019_LWolf+025.jpg" data-image-dimensions="2500x1407" data-image-focal-point="0.46938775510204084,0.5286144578313253" alt="FlingTing2019_LWolf 025.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 11"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337605887-6VJWFQ3YKFA501FEDMRU/Ultimate-Tourney-%282017%29-027.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337605887-6VJWFQ3YKFA501FEDMRU/Ultimate-Tourney-%282017%29-027.jpg" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-027.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 12"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739289992-TV69SXOQNSQD3FEK9FFB/FlingTing2019_MVeira+077.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739289992-TV69SXOQNSQD3FEK9FFB/FlingTing2019_MVeira+077.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_MVeira 077.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 13"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337658087-KJA4F0D0PNRWL708RXVW/Ultimate-Tourney-%282017%29-Simmi--080.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337658087-KJA4F0D0PNRWL708RXVW/Ultimate-Tourney-%282017%29-Simmi--080.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-Simmi--080.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 14"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337670082-9IQG589K4KVZ57L4UW6H/Ultimate-Tourney-%282017%29-Simmi--124.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337670082-9IQG589K4KVZ57L4UW6H/Ultimate-Tourney-%282017%29-Simmi--124.JPG" data-image-dimensions="1920x1280" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-Simmi--124.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 15"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337676251-KKOCBW1U4TARORPGW3T5/Ultimate-Tourney-%282017%29-Simmi--133.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337676251-KKOCBW1U4TARORPGW3T5/Ultimate-Tourney-%282017%29-Simmi--133.JPG" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-Simmi--133.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 16"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337716072-WYVO5W7WBAW7BZAPYF1J/Ultimate-Tourney-%282017%29-037.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337716072-WYVO5W7WBAW7BZAPYF1J/Ultimate-Tourney-%282017%29-037.JPG" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-037.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 17"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337731838-2A2QHP2NPORW20K8DHGW/Ultimate-Tourney-%282017%29-033.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1559337731838-2A2QHP2NPORW20K8DHGW/Ultimate-Tourney-%282017%29-033.jpg" data-image-dimensions="1066x711" data-image-focal-point="0.5,0.5" alt="Ultimate-Tourney-(2017)-033.jpg" 
+            data-type="image"
+          />
+        
+
+        
+      
+        
+          <img
+            tabindex="0"
+            role="button"
+            aria-label="Slide 18"
+            data-load="false"
+            src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739252971-59E4RX9U05O5TZAIO7YZ/FlingTing2019_MVeira+056.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1568739252971-59E4RX9U05O5TZAIO7YZ/FlingTing2019_MVeira+056.JPG" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="FlingTing2019_MVeira 056.JPG" 
+            data-type="image"
+          />
+        
+
+        
+      
+    </div>
+
+  
+
+
+
+
+
+<hr /><h2 style="white-space:pre-wrap;"><strong>FLING TING TOURNAMENT 2017</strong></h2>
+
+
+
+
+
+
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slider
+  
+  
+  sqs-gallery-has-controls
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+          
+            
+              <a href="https://jamaicaultimate.com/" target="_blank">
+                <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840301866-9DUYC3CH20E3A45XP575/DSC_0132.jpg" alt="Fling Ting Tournament 2017" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840301866-9DUYC3CH20E3A45XP575/DSC_0132.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840301866-9DUYC3CH20E3A45XP575/DSC_0132.jpg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="Fling Ting Tournament 2017" data-load="false" data-image-id="62fe696d0d281c0a994f357a" data-type="image" />
+              </a>
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840303242-PV9S4IGMLTACQMCWUBRM/Ultimate%2BTourney%2B%282017%29%2B011a.jpg" alt="Ultimate+Tourney+(2017)+011a.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840303242-PV9S4IGMLTACQMCWUBRM/Ultimate%2BTourney%2B%282017%29%2B011a.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840303242-PV9S4IGMLTACQMCWUBRM/Ultimate%2BTourney%2B%282017%29%2B011a.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Ultimate+Tourney+(2017)+011a.jpg" data-load="false" data-image-id="62fe696dcfb02d04f39b8c0e" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>
+
+
+
+
+
+
+  
+  
+
+<hr /><h2 style="white-space:pre-wrap;"><strong>FLING TING TOURNAMENT 2019</strong></h2>
+
+
+
+
+
+
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-slider
+  
+  
+  sqs-gallery-has-controls
+  
+
+  
+    
+    
+  
+  sqs-gallery-block-show-meta
+  
+  
+
+  
+  
+
+  
+  block-animation-none
+  clear"
+  
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840574707-F6YFASW84CJP25AX008C/DSC_0132.jpg" alt="DSC_0132.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840574707-F6YFASW84CJP25AX008C/DSC_0132.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840574707-F6YFASW84CJP25AX008C/DSC_0132.jpg" data-image-dimensions="1440x960" data-image-focal-point="0.5,0.5" alt="DSC_0132.jpg" data-load="false" data-image-id="62fe6a7e4da4ef2e513a12b7" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+
+        
+
+        
+          
+            
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840576024-B2C6VO6681KHKRSYGHIX/Ultimate%2BTourney%2B%282017%29%2B011a.jpg" alt="Ultimate+Tourney+(2017)+011a.jpg" /></noscript><img class="thumb-image" src="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840576024-B2C6VO6681KHKRSYGHIX/Ultimate%2BTourney%2B%282017%29%2B011a.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5ce84859fe7e9d00010e15ea/1660840576024-B2C6VO6681KHKRSYGHIX/Ultimate%2BTourney%2B%282017%29%2B011a.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Ultimate+Tourney+(2017)+011a.jpg" data-load="false" data-image-id="62fe6a7e1ba41f0ccb6cdaf2" data-type="image" />
+            
+          
+          
+        
+
+        
+
+      
+    
+  </div>
+
+  
+    <div class="sqs-gallery-meta-container">
+    
+    
+      
+      
+        <div class="sqs-gallery-controls">
+          <a
+            tabindex="0"
+            role="button"
+            class="previous"
+            aria-label="Previous Slide"
+          ></a>
+          <a
+            tabindex="0"
+            role="button"
+            class="next"
+            aria-label="Next Slide"
+          ></a>
+        </div>
+      
+    
+    
+    </div> <!-- END .sqs-gallery-meta-container -->
+  
+
+</div>]]></content:encoded>
+      <wp:post_name>ultimate-tournaments-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
